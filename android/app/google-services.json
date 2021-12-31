@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903955481506",
+    "project_id": "shopize-26155",
+    "storage_bucket": "shopize-26155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903955481506:android:df59404aa9ab4f2e4068fb",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903955481506-o712d87goi4r2bgb71ts0csb910kc5nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce",
+            "certificate_hash": "200e175fe40d2215f11df2262025c2914a3da339"
+          }
+        },
+        {
+          "client_id": "903955481506-uqqmuh67lmcuu046k3nbvcpq5es06iiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTP1NSw0sBPzhQ4hd4iyNUj3gKatcYis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903955481506-uqqmuh67lmcuu046k3nbvcpq5es06iiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
